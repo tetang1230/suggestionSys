@@ -7,7 +7,7 @@ abs_path=$(dirname $(pwd))
 # global vars
 #start_time=$(date +"%Y-%m-%d:%H:%M:%S")
 time_str=$(date +"%Y-%m-%d")
-work_path="${abs_path}/ev-sever"
+work_path="${abs_path}/suggestionSys"
 contrib_path="${abs_path}/contrib"
 data_path="${work_path}/data"
 script="${work_path}/script"
