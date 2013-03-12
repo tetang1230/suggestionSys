@@ -12,8 +12,11 @@ c hash index search
 
 2 发布程序
   ./control.sh make
+  
   ./control.sh build
+  
   ./control.sh start
+  
   
 3 测试下
   http://localhost:8080/?word=%E4%B8%80
