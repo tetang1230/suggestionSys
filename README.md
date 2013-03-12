@@ -10,7 +10,7 @@ c hash index search
 1 需安装libevent-2.0.19（看清版本号）
   注意我安装的时候分别制定了includedir和libdir（./configure --includedir=XXX  --libdir=XXX）不然使用运行示例程序,会报错！
 
-2 新手艺
+2 发布程序
   ./control.sh make
   ./control.sh build
   ./control.sh start
